@@ -23,3 +23,12 @@ ul {
 a {
   color: whitesmoke;
 }
+
+.hero {
+  min-height: 80vh;
+  width: 100%;
+  margin: 1rem 0;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+}
